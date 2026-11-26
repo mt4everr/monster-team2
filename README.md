@@ -2,7 +2,7 @@
 
 Developer focused on web development, Discord bots, game servers, and custom server-side systems.
 
-Founder and developer of **Monster Team - Zombie Escape**.
+Founder and developer of **Monster Team - Zombie Escape** ``(Retierd)``.
 
 ## Tech Stack
 
